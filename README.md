@@ -14,7 +14,11 @@ Criptografia de senha: A criptografia é realizada usando bcrypt.
 
 # Tecnologias Utilizadas
 Node.js: Ambiente de execução para JavaScript.
+
 Express: Framework web para Node.js.
+
 MongoDB: Banco de dados NoSQL para armazenamento de dados.
+
 Mongoose: ODM (Object Data Modeling) para MongoDB.
+
 Bcrypt: Criptografia de senha para armazenamento seguro.
