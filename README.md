@@ -22,3 +22,5 @@ MongoDB: Banco de dados NoSQL para armazenamento de dados.
 Mongoose: ODM (Object Data Modeling) para MongoDB.
 
 Bcrypt: Criptografia de senha para armazenamento seguro.
+
+JsonWebToken: Para autenticação dos cookies.
