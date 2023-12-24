@@ -5,8 +5,11 @@ Este repositório contém o backend Node.js que se integra ao frontend para aute
 # Funcionalidades
 
 Registro de Conta: Os usuários podem se registrar fornecendo informações como nome de usuário, e-mail e senha.
+
 Login: Os usuários podem fazer login usando suas credenciais existentes.
+
 Persistência de Dados: As contas de usuários são armazenadas no MongoDB.
+
 Autenticação de Cookies: A autenticação é realizada por meio de cookies para manter os usuários conectados.
 
 # Pré-requisitos
